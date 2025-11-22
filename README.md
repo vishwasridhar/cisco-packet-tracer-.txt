@@ -1,0 +1,7 @@
+Download cisco packet tracer 
+
+step1: https://www.netacad.com/articles/news/download-cisco-packet-tracer
+step2: scroll down and click resource link download cisco packet tracer v9.0.0 or update version
+step3: scroll down and see learning resource and select the current os and click the login and click email
+step4: download cisco packet tracer and install it once install open the application if you want multi user click ok are otherwise click no
+step5: click second button cisco skills or click login button for all you will redirect to google chrome you are already login to netacad.com so you can see this kind of message you have successfully logged in to cisco packet tracer.you may close this tab. 
