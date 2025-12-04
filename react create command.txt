@@ -1,0 +1,6 @@
+To create a react application build using this command
+step 1: npm create vite@latest
+step 2: faced the problem running script is disable using this command Set-Execution Policy -Scope CurrentUser Unrestricted (or) Set-ExecutionPolicy-ExecutionPolicy Remotesigned (or) Set-ExecutionPolicy RemoteSigned -Scope CurrentUser to fix this it will work 
+step 3: nwe system while install vite use this command npm install vite@latest and type y - means yes
+step 4: basic configuration to setup first type project name and type package name click enter in case show error type package.json it will run complete next step he can choose the framework what he use i use react after see the screen select the varaity javascript or typescript i use javascript after see the screen use rolldown click enter no change anything nex ask the install no change click enter 
+step 5: all are done ready to code and build the project.
